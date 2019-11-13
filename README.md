@@ -1,5 +1,5 @@
-# Global-Public-Broadcasting-Providers
-A list of public broadcasting providers by country
+# Global Public Broadcasting Providers
+A list of public broadcasting providers by country.
 
 
 If you are living in or doing business in a country, you are probably already paying for public broadcasting in the form of a monthly fee or included in your taxes.
