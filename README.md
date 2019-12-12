@@ -22,7 +22,7 @@ https://www.dr.dk/drtv/
 
 **Norway**
 
-https://tv.nkr.no
+https://tv.nrk.no
 
 **France**
 
