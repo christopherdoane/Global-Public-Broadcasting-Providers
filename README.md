@@ -15,7 +15,9 @@ I’ve compiled an (incomplete) list of public broadcasters for a number of coun
 **Sweden**
 
 www.svtplay.se (live, player)
+
 https://urplay.se/ (player)
+
 https://www.tv4play.se/  (ad-financed)
 
 **Denmark**
@@ -37,6 +39,7 @@ www.pbs.org
 **Switzerland**
 
 https://www.srf.ch/play/tv/live
+
 https://zattoo.com (30 hours a month live tv free, otherwise 10 CHF)
 
 **Canada**
@@ -46,25 +49,37 @@ https://gem.cbc.ca
 **Italian**
 
 http://www.rai.tv/dl/replaytv/replaytv.html
+
 http://www.video.mediaset.it
 
 **Finland**
 
 https://areena.yle.fi/tv
+
 http://www.katsomo.fi/
+
 http://www.ruutu.fi/
 
 **Germany**
 
 https://www.daserste.de/
+
 https://www.ardmediathek.de/ard/
+
 https://www.arte.tv
+
 https://www.3sat.de/
+
 (learn German (app exists too): https://learngerman.dw.com/en/overview)
+
 https://www.zdf.de/
+
 https://zattoo.com (30 hours a month live tv free, otherwise 10 CHF)
+
 https://www.tvnow.de/rtl
+
 https://www.prosieben.de/video/
+
 https://www.sat1.de/videos
 
 **Thailand**
@@ -87,22 +102,30 @@ https://tvthek.orf.at/
 **Spain**
 
 http://www.rtve.es/television/
+
 http://www.rtve.es/alacarta/ (player)
+
 https://www.atresplayer.com/antena3/
+
 https://www.mitele.es/
 
 **Netherlands**
 
 https://www.bvn.tv/
+
 http://www.nederland1.nl/uitzending-gemist
+
 http://www.nederland2.nl/uitzending-gemist
+
 http://www.nederland3.nl/uitzending-gemist
 
 **Belgium**
+
 https://www.rtbf.be/tv/ (French-speaking)
 
 
 **UK**
+
 https://www.bbc.co.uk/iplayer
 
 
